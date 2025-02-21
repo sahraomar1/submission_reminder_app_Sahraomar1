@@ -5,6 +5,6 @@ It is an app that is made for students to check their assignments and deadlines.
 #How to run the script/app:
 You need to clone the repository in your terminal.
 You need to run the creator_environment script. 
-It will ask your name, so you type your name in
-You change to the directory to submission_reminder_$yourName
-Lastly you run the startup.sh script 
+It will ask your name, so you type your name in.
+You change the current directory to submission_reminder_$yourName.
+Lastly you run the startup.sh script. 
